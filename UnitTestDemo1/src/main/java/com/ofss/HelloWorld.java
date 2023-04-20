@@ -7,6 +7,7 @@ public class HelloWorld {
 	{
 		System.out.println("Calling sayHello");
 		System.out.println("This is another line one more time, one more time");
+		System.out.println("This time it should succeed");
 		return "Hello";
 	}
 	
